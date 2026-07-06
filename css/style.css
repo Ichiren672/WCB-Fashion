@@ -183,7 +183,7 @@ LAYOUT
     display: flex;
     flex-direction: column-reverse;
 }
-.gellery-image {
+.gallery-image {
     width: min(100%, calc(38rem - 2rem));
     margin: auto;
     position: relative;
